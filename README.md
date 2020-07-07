@@ -1,1 +1,3 @@
 # MidnightSprucePine-AtomSyntaxTheme
+
+# Coming soon!
